@@ -1,2 +1,3 @@
-# kalman-filter-example-by-welch-and-bishop
-C++ implementation of example from "Welch &amp; Bishop - An Introduction to the Kalman Filter", p.13ff.
+This repo contains just a C++ implementation of the example on p.13ff. from the following paper:
+
+> [Welch & Bishop - An Introduction to the Kalman Filter](https://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf)
