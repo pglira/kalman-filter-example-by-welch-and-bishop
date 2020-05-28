@@ -34,8 +34,8 @@ void LogValues(std::ofstream& file_stream, const std::vector<double> valueVec) {
   file_stream << "\n";
 }
 
-int main()
-{
+int main() {
+
   // Process
   const double A {1};
   const double process_std_dev {sqrt(1e-5)};
