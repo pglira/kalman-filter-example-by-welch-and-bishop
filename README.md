@@ -2,6 +2,8 @@ This repo contains just a [C++ implementation](kalman_filter.cpp) of the example
 
 > [Welch & Bishop - An Introduction to the Kalman Filter](https://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf)
 
-Plot generated with [gnuplot](http://www.gnuplot.info):
+![](kalman_filter_results_xhat.png)
 
-![](kalman_filter_results.png)
+![](kalman_filter_results_gain.png)
+
+Plots generated with [gnuplot](http://www.gnuplot.info).
