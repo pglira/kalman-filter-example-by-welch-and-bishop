@@ -75,8 +75,8 @@ int main() {
     P = (1-K)*P_minus;
 
     // Logging
-    if (i == 0) { logfile_stream << "# i K x_hat sqrt(P)\n"; }
-    LogValues(logfile_stream, std::vector<double> {double(i), K, x_hat, sqrt(P)});
+    if (i == 0) { logfile_stream << "# i K x_hat sqrt(P) z\n"; }
+    LogValues(logfile_stream, std::vector<double> {double(i), K, x_hat, sqrt(P), z[i]});
 
   }
 
